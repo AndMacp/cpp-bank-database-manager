@@ -3,6 +3,7 @@ BankDBManager is a simple banking database management system implemented in C++.
 Features:
 
 -Add new client records to the database.
+
 -Delete existing client records from the database.
 -Display all client records stored in the database.
 -Search for specific client records by account number.
