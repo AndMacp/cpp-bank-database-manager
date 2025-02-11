@@ -1,4 +1,4 @@
-BankDBManager is a simple banking database management system implemented in C++. This program allows users to manage client records in a banking database, including adding new records, deleting existing records, modifying account balances, searching for specific records, and more. It provides basic functionalities for interacting with client data stored in a binary file format.
+BankDBManager is a simple C++ banking database management system that lets users add, delete, modify, and search client records stored in a binary file.
 
 Features:
 
